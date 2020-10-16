@@ -1,0 +1,9 @@
+{
+    "repository_name": "my-repository",
+    "file_name": "hello",
+    "greeting_recipient": "lorenxo-el-gato",
+    "tasks" : {
+      "file_name": "tasks",
+      "folder_name": "tasks"
+    }
+}
